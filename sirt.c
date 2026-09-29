@@ -10,6 +10,7 @@ int main(){
       printf("enter r=");
      scanf("%f",&r);
      float si=(p*t*r)/100;
-    printf("simple intrest=%.2f",si);
+    printf("simple intrest=%.2f\n",si);
+    printf("heres it broww\n");
     return 0;
 }
